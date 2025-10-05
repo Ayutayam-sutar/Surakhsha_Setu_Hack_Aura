@@ -3,6 +3,8 @@ Tagline: Connecting communities, coordinating relief, and saving lives when ever
 
 Suraksha Setu is a real-time, unified disaster response platform designed to bridge the deadly information gap that occurs during a crisis. It connects victims, volunteers, and authorities on a single, intuitive platform to transform chaos into coordinated action.
 
+
+
 🎯 The Problem
 In the critical hours following a disaster, a communication breakdown creates an information void.
 
@@ -14,6 +16,8 @@ Communication networks fail, leading to delayed rescues, inefficient resource al
 
 Our platform is built to solve this by replacing chaos with clarity when every second matters.
 
+
+
 💡 Our Solution
 Our solution is Suraksha Setu, a web application that serves as a lifeline for victims, a coordination hub for volunteers, and a vital intelligence tool for administrators.
 
@@ -22,6 +26,8 @@ For Victims: Provides official disaster alerts, an interactive map of nearby she
 For Volunteers: Offers a live map of nearby requests, enabling them to respond instantly and efficiently where they are needed most.
 
 For Administrators: A "mission control" center with a real-time, bird's-eye view of the disaster zone to make critical, data-driven decisions.
+
+
 
 ✨ Key Features
 Real-Time Alerts: Receive official disaster warnings on the dashboard.
@@ -36,6 +42,8 @@ Live Dashboard: Admins can view all incidents and resources in real-time.
 
 Multi-Language Support: UI translated into multiple languages for wider accessibility.
 
+
+
 👥 Target Audience
 Primary Audience (On the Ground):
 
@@ -48,6 +56,8 @@ Secondary Audience (Organizational):
 Government Agencies (SDMA/NDRF): Authorities needing a "mission control" dashboard for resource management.
 
 NGOs & Corporations: Organizations needing tools for volunteer management and supply chain logistics.
+
+
 
 🛠️ Tech Stack
 This project uses a modern, scalable, and hackathon-friendly tech stack.
@@ -63,7 +73,7 @@ Credits :Gemini, Deepseek, Animista
 
 For a detailed overview of our project, including the problem, solution, and live demo, please view our presentation slides.
 
-[**➡️ View Our Hackathon Presentation**]([https://docs.google.com/presentation/d/your-presentation-link/edit?usp=sharing](https://1drv.ms/p/c/b04cb7e34f0439f8/EXJL6-WQ1RtOllM7KsgAjJYBTtebB17lsKYppufrrU5YQw?e=IG4FHG))
+[**➡️ View Our Hackathon Presentation**]((https://1drv.ms/p/c/b04cb7e34f0439f8/EXJL6-WQ1RtOllM7KsgAjJYBTtebB17lsKYppufrrU5YQw?e=IG4FHG))
 
 Export to Sheets
 📈 Impact
@@ -72,6 +82,8 @@ Immediate: Saves lives by drastically reducing response times through direct vic
 Community: Optimizes the distribution of essential aid and strengthens community self-help efforts.
 
 Long-Term: Provides authorities with crucial data to drive better disaster planning and builds a more resilient, prepared community.
+
+
 
 💼 Business Model
 Our model is a Social Enterprise SaaS platform. We provide core life-saving tools for free to the public while generating revenue from organizational clients.
@@ -84,6 +96,8 @@ B2B (Business-to-Business): We provide an organizational license for NGOs and co
 
 Grants & Partnerships: We actively seek funding from "Tech for Good" programs and social impact foundations.
 
+
+
 🚀 Future Scope
 AI & Predictive Analytics: Incorporate ML to predict resource shortages and identify high-risk zones.
 
@@ -94,6 +108,8 @@ Blood & Plasma Donor Network: A dedicated module to connect patients with local 
 Drone & IoT Integration: Integrate with drones for aerial damage assessment and IoT sensors for monitoring environmental threats.
 
 Official API Partnerships: Integrate directly with government bodies like the NDRF and local SDMAs to become an official channel for response coordination.
+
+
 
 🚀 Getting Started
 Prerequisites
@@ -108,7 +124,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/your-username/suraksha-setu.git
+git clone https://github.com/Ayutayam-sutar/Surakhsha_Setu_Hack_Aura
 Setup the Backend:
 
 Bash
@@ -129,11 +145,13 @@ Frontend: [http://localhost:3000](http://localhost:3000/)
 
 Backend: http://localhost:5000
 
+
+
 Team
 Juggernaut
 
-Ashutosh Nayak- [Backend Developer]
-Sushree Sahoo- [UI/UX desigener]
-Siddharth jena-[Researcher]
-Ayutayam sutar-[Frontend developer]
+Ashutosh Nayak- [Backend Developer], 
+Sushree Sahoo- [UI/UX desigener], 
+Siddharth jena-[Researcher], 
+Ayutayam sutar-[Frontend developer], 
 
