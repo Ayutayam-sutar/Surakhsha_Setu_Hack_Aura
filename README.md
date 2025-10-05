@@ -73,7 +73,7 @@ Credits :Gemini, Deepseek, Animista
 
 For a detailed overview of our project, including the problem, solution, and live demo, please view our presentation slides.
 
-[**➡️ View Our Hackathon Presentation**]((https://docs.google.com/presentation/d/1ZNg_F96ix20ERjTRFu9pB3JErJrO-A6r/edit?slide=id.p1#slide=id.p1))
+[**➡️ View Our Hackathon Presentation**](([https://docs.google.com/presentation/d/1ZNg_F96ix20ERjTRFu9pB3JErJrO-A6r/edit?slide=id.p1#slide=id.p1](https://docs.google.com/presentation/d/1ZNg_F96ix20ERjTRFu9pB3JErJrO-A6r/edit?usp=sharing&ouid=103080980763319932574&rtpof=true&sd=true)))
 
 
 
