@@ -1,0 +1,5 @@
+{
+  "name": "SafeHaven",
+  "description": "A real-time disaster management and volunteer coordination platform connecting citizens with volunteers during emergencies, providing critical information via a live map, and allowing for real-time incident reporting.",
+  "requestFramePermissions": ["camera"]
+}
