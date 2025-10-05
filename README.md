@@ -73,7 +73,9 @@ Credits :Gemini, Deepseek, Animista
 
 For a detailed overview of our project, including the problem, solution, and live demo, please view our presentation slides.
 
-[**➡️ View Our Hackathon Presentation**]((https://1drv.ms/p/c/b04cb7e34f0439f8/EXJL6-WQ1RtOllM7KsgAjJYBTtebB17lsKYppufrrU5YQw?e=IG4FHG))
+[![View Presentation](https://img.shields.io/badge/View-Presentation-blue?style=for-the-badge&logo=googleslides)]([https://docs.google.com/presentation/d/your-presentation-link/edit?usp=sharing](https://1drv.ms/p/c/b04cb7e34f0439f8/EXJL6-WQ1RtOllM7KsgAjJYBTtebB17lsKYppufrrU5YQw?e=IG4FHG))
+
+*(Note: Remember to replace the link with your actual presentation link.)*
 
 Export to Sheets
 📈 Impact
